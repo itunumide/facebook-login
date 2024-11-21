@@ -27,7 +27,7 @@ body{
         font-size: 3rem;
         margin-bottom: 0px;
     }
-    p{
+    span{
         font-size: 1.2rem;
         width: 80%;
     };
@@ -75,4 +75,5 @@ hr{
 .pb{
     text-align: center;
     font-size: 15px;
+    margin-top: 20px;
 }
